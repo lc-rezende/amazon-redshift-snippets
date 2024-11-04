@@ -22,7 +22,7 @@ Feel free to explore the code snippets and incorporate them into your own projec
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/lc-rezende/amazon-redshift-snippets.git
 ````
 
 2. Navigate to the desired directory to find the scripts you need.
